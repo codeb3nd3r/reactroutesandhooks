@@ -1,0 +1,27 @@
+/* Rafay component styles */
+.rafay {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 10px;
+   }
+   
+   .rafay button {
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+   }
+   
+   .rafay button:hover {
+    background-color: #0056B3;
+   }
+   
+   .rafay h1 {
+    font-size: 36px;
+    color: #212529;
+   }
